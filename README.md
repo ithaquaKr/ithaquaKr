@@ -18,7 +18,7 @@ I'm a Full-Stack Web Developer 💻, Photographer 📸, and Designer 🎨!
 ## 🔭 I'm currently working on
 
 - Project at school about *Telecommunication & Software Development*. 
-- **Cloud Computing & System Intern** at **Viettel Network**.
+- **Cloud Solution Engineer** at **Viettel Network**.
 
 ## 🌱 I'm currently learning
 
