@@ -11,5 +11,5 @@ Currently working full-time, learning to get better.
 #### Contact Information
 
 - Email: `ithadev.nguyen <at> gmail.com` or `tuanhiep.forwork <at> gmail.com`
-- Telegram: `hiepnt34`
-- Linkedin: [https://www.linkedin.com/in/hiepnt-h2001a201](https://www.linkedin.com/in/hiepnt-h2001a201)
+- Telegram: [hiepnt](https://t.me/hiepnt34)
+- Linkedin: [hiepnt](https://www.linkedin.com/in/hiepnt-h2001a201)
