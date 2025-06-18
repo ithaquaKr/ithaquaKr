@@ -2,7 +2,7 @@
 
 I am:
 
-- a Site Reliability Engineers specialize in constructing and maintaining cloud-native systems.
+- a DevOps / Site Reliability Engineers specialize in constructing and maintaining cloud-native systems.
 - M.Eng in Information Systems | 🇻🇳 Based in Ha Noi
 - a NeoVim / Terminal / FOSS Enthusiast
 
