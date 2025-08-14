@@ -2,15 +2,17 @@
 
 I am:
 
-- a DevOps / Site Reliability Engineers specialize in constructing and maintaining cloud-native systems.
-- M.Eng in Information Systems | 🇻🇳 Based in Ha Noi
-- a NeoVim / Terminal / FOSS Enthusiast
+- a DevOps / Software Engineer specializing in designing, building, and maintaining scalable cloud-native systems.
+- M.Eng in Information Systems | 🇻🇳 Based in Ha Noi.
+- a NeoVim / Terminal / FOSS Enthusiast.
 
 What I do:
-- build fault-tolerant systems, implement SLOs/SLIs, automate operations, and reduce toil.
-- experience with Kubernetes, container runtimes, IaC, CI/CD, observability tools, and secret management.
-- focus on Python, Go, Bash.
-- managing Linux systems, dotfiles, and performance tuning across distributed environments.
+
+- design and develop backend services and automation tools to support cloud-native platforms.
+- build and maintain CI/CD pipelines, Infrastructure as Code, and service configurations for reliable and scalable environments
+- proficient in Python, Go, and Bash for building APIs, CLI tools, and automation scripts.
+- experience with Kubernetes, container runtimes, observability platforms, and secret management solutions.
+- experienced in migrating applications to Kubernetes, developing custom Helm Charts, integrating monitoring/exporters, and automating deployments with Ansible
 
 Currently working full-time, learning to get better.
 
