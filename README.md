@@ -1,12 +1,8 @@
-### Nguyen Tuan Hiep _(@ithaqua'kr)_
+### @ithaqua'kr
 
-I am:
+I am Nguyen Tuan Hiep, an engineer focused on designing, building, and maintaining scalable business platforms. I’m also a terminal guy and a fan of FOSS.
 
-- a Platform Engineer specializing in designing, building, and maintaining scalable business platforms.
-- M.Eng in Information Systems | 🇻🇳 Based in Ha Noi.
-- a NeoVim / Terminal / FOSS Enthusiast.
-
-Currently working full-time, learning to get better.
+I’m currently working full-time while continuously learning to improve myself.
 
 If you’re curious about something or just want to catch up, feel free to drop
 me a line on social media or send me an email.
