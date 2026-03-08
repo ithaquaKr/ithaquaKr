@@ -1,6 +1,6 @@
 ### @ithaqua'kr
 
-I am Nguyen Tuan Hiep, an engineer focused on designing, building, and maintaining scalable business platforms. I’m also a terminal guy and a fan of FOSS.
+Hi, I’m Nguyen Tuan Hiep, an engineer focused on developer tools, platforms, and infrastructure. I’m also a terminal enthusiast and a big fan of open-source software.
 
 I’m currently working full-time while continuously learning to improve myself.
 
